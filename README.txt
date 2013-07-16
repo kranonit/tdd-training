@@ -12,4 +12,10 @@
 === ЦЕЛЕВАЯ АУДИТОРИЯ ===
 Junior и Middle разработчики, с опытом работы с Java больше 1 года, с пониманием принципов ООП, уверенным владением IDE и элементарным знанием английского.
 
+=== СОДЕРЖИМОЕ ЭТОГО РЕПОЗИТОРИЯ ===
+В данном репозитории содержатся финальные исходники в результате выполнения двух кат:
+* String Calculator kata http://blog.ploeh.dk/2013/02/06/StringCalculatorkatawithAutoFixture/
+* Conway's Game of Life kata http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife
+
+
 Подбробности здесь http://kranonit.wordpress.com/2013/06/25/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BF%D0%BE-tdd-%D0%B2-java/
